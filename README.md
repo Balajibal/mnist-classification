@@ -124,7 +124,7 @@ print(x_single_prediction)
 
 </br>
 
-## OUTPUT
+## <br><br><br><br><br>OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
@@ -142,7 +142,7 @@ print(x_single_prediction)
 
 
 
-### New Sample Data Prediction
+### <br><br><br><br><br>New Sample Data Prediction
 ![WhatsApp Image 2022-09-22 at 7 02 58 PM (2)](https://user-images.githubusercontent.com/75235455/191963970-79451889-c73a-4a9c-930d-82748f7f6d4c.jpeg)
 ![WhatsApp Image 2022-09-22 at 7 02 58 PM (1)](https://user-images.githubusercontent.com/75235455/191963989-26732ffd-1230-4129-b949-26bef5994ce7.jpeg)
 ![WhatsApp Image 2022-09-22 at 7 02 58 PM](https://user-images.githubusercontent.com/75235455/191964022-579b82f2-1098-40a5-83da-ce2e86f11f67.jpeg)
